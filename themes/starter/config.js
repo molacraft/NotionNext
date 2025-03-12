@@ -239,11 +239,11 @@ const CONFIG = {
 
   // 联系模块
   STARTER_CONTACT_ENABLE: true, // 联系模块开关
-  STARTER_CONTACT_TITLE: 'Contact support',
-  STARTER_CONTACT_TEXT: '告诉我们您遇到的问题',
-  STARTER_CONTACT_LOCATION_TITLE: '我们的位置',
+  STARTER_CONTACT_TITLE: 'Have a good day!',
+  STARTER_CONTACT_TEXT: 'Contact support',
+  STARTER_CONTACT_LOCATION_TITLE: 'Our location',  // 我们的位置
   STARTER_CONTACT_LOCATION_TEXT: 'CHINA，ZHONGSHAN',
-  STARTER_CONTACT_EMAIL_TITLE: '我们如何帮助您？',
+  STARTER_CONTACT_EMAIL_TITLE: 'How can we help you?', //我们如何帮助您？
   STARTER_CONTACT_EMAIL_TEXT: 'inquiry@molacraft.com',
 
   // 嵌入外部表单
@@ -292,7 +292,7 @@ const CONFIG = {
     }
   ],
 
-  STARTER_FOOTER_SLOGAN: '我们通过技术为品牌和公司创造数字体验。',
+  STARTER_FOOTER_SLOGAN: 'Create your own craft',  //底部左下角标语
 
   // 页脚三列菜单组
   STARTER_FOOTER_LINK_GROUP: [
@@ -356,9 +356,9 @@ const CONFIG = {
   STARTER_FOOTER_PRIVACY_TERMS_OF_SERVICE_URL: '/terms-of-use',
 
   // 404页面的提示语
-  STARTER_404_TITLE: '我们似乎找不到您要找的页面。',
-  STARTER_404_TEXT: '抱歉！您要查找的页面不存在。可能已经移动或删除。',
-  STARTER_404_BACK: '回到主页',
+  STARTER_404_TITLE: 'It seems we cannot find the page you‘are looking for.', // 我们似乎找不到您要找的页面。
+  STARTER_404_TEXT: 'We apologize! The page you are trying to find does not exist. It may have been moved or deleted.',//抱歉！您要查找的页面不存在。可能已经移动或删除。
+  STARTER_404_BACK: 'Return to the homepage', // 回到主页
 
   // 页面底部的行动呼吁模块
   STARTER_CTA_ENABLE: true,
