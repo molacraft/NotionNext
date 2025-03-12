@@ -38,26 +38,26 @@ const CONFIG = {
   STARTER_FEATURE_TEXT_2:
     '10000+ Crafts of different kinds and designs. At Mola Craft, you can get following custom products at direct factory price with one-stop solution reliable service.', // 特性
 
-  STARTER_FEATURE_1_TITLE_1: '免费且开源', // 特性1
-  STARTER_FEATURE_1_TEXT_1: '项目源码在Github上完全开放共享，遵循MIT协议', // 特性1
-  STARTER_FEATURE_1_BUTTON_TEXT: '了解更多', // 特性1
-  STARTER_FEATURE_1_BUTTON_URL: 'https://github.com/tangly1024/NotionNext', // 特性1
+  STARTER_FEATURE_1_TITLE_1: 'Custom', // 特性1
+  STARTER_FEATURE_1_TEXT_1: 'A wide variety of products, customized gifts with different craftsmanship.', // 特性1
+  STARTER_FEATURE_1_BUTTON_TEXT: 'Learn more', // 特性1
+  STARTER_FEATURE_1_BUTTON_URL: '', // 特性1
 
-  STARTER_FEATURE_2_TITLE_1: '多种主题定制', // 特性2
-  STARTER_FEATURE_2_TEXT_1: '数十种主题,适用于不同场景，总有一款适合你', // 特性2
-  STARTER_FEATURE_2_BUTTON_TEXT: '了解更多', // 特性2
+  STARTER_FEATURE_2_TITLE_1: 'Factory Price', // 特性2
+  STARTER_FEATURE_2_TEXT_1: 'In the past 7 years, we have invested in 3 different factories to strengthen our production capacity and provide customers with direct factory prices.', // 特性2
+  STARTER_FEATURE_2_BUTTON_TEXT: 'Learn more', // 特性2
   STARTER_FEATURE_2_BUTTON_URL:
-    'https://docs.tangly1024.com/article/notion-next-themes', // 特性2
+    '', // 特性2
 
-  STARTER_FEATURE_3_TITLE_1: '优秀的性能', // 特性3
-  STARTER_FEATURE_3_TEXT_1: '基于NextJS开发，更快的响应速度，更好的SEO', // 特性3
-  STARTER_FEATURE_3_BUTTON_TEXT: '了解更多', // 特性3
-  STARTER_FEATURE_3_BUTTON_URL: 'https://docs.tangly1024.com/article/next-js', // 特性3
+  STARTER_FEATURE_3_TITLE_1: 'Quality Guaranteed ', // 特性3
+  STARTER_FEATURE_3_TEXT_1: 'We have online QC to check the quality of all products, and it is not allowed to deliver defective products to customers.', // 特性3
+  STARTER_FEATURE_3_BUTTON_TEXT: 'Learn more', // 特性3
+  STARTER_FEATURE_3_BUTTON_URL: '', // 特性3
 
-  STARTER_FEATURE_4_TITLE_1: '便捷的写作体验', // 特性4
-  STARTER_FEATURE_4_TEXT_1: '只需在Notion笔记中编修，自动同步到网站', // 特性4
-  STARTER_FEATURE_4_BUTTON_TEXT: '了解更多', // 特性4
-  STARTER_FEATURE_4_BUTTON_URL: 'https://docs.tangly1024.com/about', // 特性4
+  STARTER_FEATURE_4_TITLE_1: 'One-Stop Logistic Solution', // 特性4
+  STARTER_FEATURE_4_TEXT_1: 'We also have a professional sales team to follow your quotations and orders, and provide a one-stop logistics solution when the order is completed. ', // 特性4
+  STARTER_FEATURE_4_BUTTON_TEXT: 'Learn more', // 特性4
+  STARTER_FEATURE_4_BUTTON_URL: '', // 特性4
 
   // 首页ABOUT区块
   STARTER_ABOUT_ENABLE: true, // ABOUT区块开关
