@@ -324,9 +324,6 @@ const CONFIG = {
           URL: ''
         },
         { TITLE: 'xxx', URL: '' }
-        {
-          TITLE: 'xxxx',
-          URL: ''
         },
       ]
     },
