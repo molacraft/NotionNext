@@ -258,7 +258,7 @@ const CONFIG = {
   //   STARTER_CONTACT_MSG_THANKS: '感谢您的留言',
 
   // 合作伙伴的图标
-  STARTER_BRANDS_ENABLE: true, // 合作伙伴开关
+  STARTER_BRANDS_ENABLE: false, // 合作伙伴开关
   STARTER_BRANDS: [
     {
       IMAGE: '/images/starter/brands/graygrids.svg',
@@ -315,30 +315,30 @@ const CONFIG = {
       TITLE: '功能特性',
       LINK_GROUP: [
         {
-          TITLE: '部署指南',
-          URL: 'https://docs.tangly1024.com/article/vercel-deploy-notion-next'
+          TITLE: 'xxx',
+          URL: ''
         },
         {
-          TITLE: '升级指南',
-          URL: 'https://docs.tangly1024.com/article/how-to-update-notionnext'
+          TITLE: 'xxx',
+          URL: ''
         },
-        { TITLE: '最新版本', URL: 'https://docs.tangly1024.com/article/latest' }
+        { TITLE: 'xxx', URL: '' }
       ]
     },
     {
-      TITLE: 'Notion写作',
+      TITLE: 'xxx',
       LINK_GROUP: [
         {
-          TITLE: 'Notion开始写作',
-          URL: 'https://docs.tangly1024.com/article/start-to-write'
+          TITLE: 'xxx',
+          URL: ''
         },
         {
-          TITLE: '快捷键提升效率',
-          URL: 'https://docs.tangly1024.com/article/notion-short-key'
+          TITLE: 'xxx',
+          URL: ''
         },
         {
-          TITLE: '中国大陆使用Notion',
-          URL: 'https://docs.tangly1024.com/article/notion-faster'
+          TITLE: 'xxx',
+          URL: ''
         }
       ]
     }
@@ -372,7 +372,7 @@ const CONFIG = {
   STARTER_CTA_BUTTON_TEXT: 'XXX',
 
   STARTER_POST_REDIRECT_ENABLE: true, // 默認開啟重定向
-  STARTER_POST_REDIRECT_URL: 'https://blog.tangly1024.com', // 重定向域名 
+  STARTER_POST_REDIRECT_URL: '', // 重定向域名 
   STARTER_NEWSLETTER: process.env.NEXT_PUBLIC_THEME_STARTER_NEWSLETTER || false // 是否开启邮件订阅 请先配置mailchimp功能 https://docs.tangly1024.com/article/notion-next-mailchimp
 }
 export default CONFIG
