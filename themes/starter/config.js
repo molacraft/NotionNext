@@ -243,10 +243,10 @@ const CONFIG = {
   STARTER_CONTACT_ENABLE: true, // 联系模块开关
   STARTER_CONTACT_TITLE: 'Have a good day!',
   STARTER_CONTACT_TEXT: 'Contact support',
-  STARTER_CONTACT_LOCATION_TITLE: 'Our location',  // 我们的位置
-  STARTER_CONTACT_LOCATION_TEXT: 'CHINA，ZHONGSHAN',
-  STARTER_CONTACT_EMAIL_TITLE: 'How can we help you?', //我们如何帮助您？
-  STARTER_CONTACT_EMAIL_TEXT: 'inquiry@molacraft.com',
+  STARTER_CONTACT_LOCATION_TITLE: 'CHINA，ZHONGSHAN',  // 我们的位置
+  STARTER_CONTACT_LOCATION_TEXT: 'Our location',
+  STARTER_CONTACT_EMAIL_TITLE: 'inquiry@molacraft.com', //我们如何帮助您？
+  STARTER_CONTACT_EMAIL_TEXT: 'How can we help you?',
 
   // 嵌入外部表单
   STARTER_CONTACT_MSG_EXTERNAL_URL: 'https://noteforms.com/forms/yfctc7', // 基于NoteForm创建，将留言数据存在Notion中
