@@ -73,7 +73,7 @@ const CONFIG = {
   STARTER_ABOUT_TIPS_3: 'xxx',
 
   // 首页价格区块
-  STARTER_PRICING_ENABLE: false, // 价格区块开关 ture / False
+  STARTER_PRICING_ENABLE: false, // 价格区块开关 ture / false
   STARTER_PRICING_TITLE: '价格表',
   STARTER_PRICING_TEXT_1: '很棒的定价计划',
   STARTER_PRICING_TEXT_2:
@@ -232,7 +232,7 @@ const CONFIG = {
   // 博客文章区块
   STARTER_BLOG_ENABLE: true, // 首页博文区块开关
   STARTER_BLOG_TITLE: 'Our products',
-  STARTER_BLOG_COUNT: 6, // 首页博文区块默认展示前3篇文章
+  STARTER_BLOG_COUNT: 9, // 首页博文区块默认展示前3篇文章
   STARTER_BLOG_TEXT_1: 'Our products',
   STARTER_BLOG_TEXT_2:
     'Badges, medals, keychains, woven straps, PVC products, silicone wristbands, embroidered covers, trophies, double-sided coins, and decorations.',
@@ -346,13 +346,13 @@ const CONFIG = {
 
   STARTER_FOOTER_BLOG_LATEST_TITLE: '最新文章',
 
-  STARTER_FOOTER_PRIVACY_POLICY_TEXT: '隐私政策',
+  STARTER_FOOTER_PRIVACY_POLICY_TEXT: 'xxx', //隐私政策
   STARTER_FOOTER_PRIVACY_POLICY_URL: '/privacy-policy',
 
-  STARTER_FOOTER_PRIVACY_LEGAL_NOTICE_TEXT: '法律声明',
+  STARTER_FOOTER_PRIVACY_LEGAL_NOTICE_TEXT: 'xxx', //法律声明
   STARTER_FOOTER_PRIVACY_LEGAL_NOTICE_URL: '/legacy-notice',
 
-  STARTER_FOOTER_PRIVACY_TERMS_OF_SERVICE_TEXT: '服务协议',
+  STARTER_FOOTER_PRIVACY_TERMS_OF_SERVICE_TEXT: 'xxx',//服务协议
   STARTER_FOOTER_PRIVACY_TERMS_OF_SERVICE_URL: '/terms-of-use',
 
   // 404页面的提示语
@@ -361,7 +361,7 @@ const CONFIG = {
   STARTER_404_BACK: 'Return to the homepage', // 回到主页
 
   // 页面底部的行动呼吁模块
-  STARTER_CTA_ENABLE: true,
+  STARTER_CTA_ENABLE: false,
   STARTER_CTA_TITLE: '你还在等待什么呢？',
   STARTER_CTA_TITLE_2: '现在开始吧',
   STARTER_CTA_DESCRIPTION:
