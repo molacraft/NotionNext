@@ -183,12 +183,12 @@ const CONFIG = {
 
   STARTER_FAQ_1_QUESTION: 'xxxxx？',
   STARTER_FAQ_1_ANSWER:
-    '',
+    'xxxxxx',
     //NotionNext提供了<a href="https://docs.tangly1024.com/about" className="underline">帮助文档</a>，操作<a href="https://www.bilibili.com/video/BV1fM4y1L7Qi/" className="underline">演示视频</a>，以及<a href="https://docs.tangly1024.com/article/chat-community" className="underline">交流社群</a>来协助您完成网站的搭建部署
 
   STARTER_FAQ_2_QUESTION: 'xxxxx？',
   STARTER_FAQ_2_ANSWER:
-    '',
+    'xxxxxxx',
   //您可以在Notion中之间添加或修改类型为Post的页面，内容将被实时同步在站点中，详情参考<a className="underline" href="https://docs.tangly1024.com/article/start-to-write">《帮助文档》</a>
 
   STARTER_FAQ_3_QUESTION: 'xxxxx？',
@@ -234,7 +234,7 @@ const CONFIG = {
   // 博客文章区块
   STARTER_BLOG_ENABLE: true, // 首页博文区块开关
   STARTER_BLOG_TITLE: 'Our products',
-  STARTER_BLOG_COUNT: 9, // 首页博文区块默认展示前3篇文章
+  STARTER_BLOG_COUNT: 6, // 首页博文区块默认展示前3篇文章
   STARTER_BLOG_TEXT_1: 'Our products',
   STARTER_BLOG_TEXT_2:
     'Badges, medals, keychains, woven straps, PVC products, silicone wristbands, embroidered covers, trophies, double-sided coins, and decorations.',
@@ -301,8 +301,8 @@ const CONFIG = {
     {
       TITLE: 'xxx',
       LINK_GROUP: [
-        { TITLE: '官方主页', URL: '/#home' },
-        { TITLE: '操作文档', URL: '' },
+        { TITLE: 'xxx', URL: '/#home' },
+        { TITLE: 'xxx', URL: '' },
         {
           TITLE: 'xxx',
           URL: ''
