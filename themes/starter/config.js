@@ -115,14 +115,14 @@ const CONFIG = {
   STARTER_TESTIMONIALS_TITLE: 'User Feedback',
   STARTER_TESTIMONIALS_TEXT_1: 'What Our Users Say',
   STARTER_TESTIMONIALS_TEXT_2:
-    'Thousands of customers have chosen MOLACRAFT for customized handicrafts and gifts.',
+    '',
   STARTER_TESTIMONIALS_STAR_ICON: '/images/starter/testimonials/icon-star.svg', // 评分图标
 
   // 这里不支持CONFIG和环境变量，需要一一修改此处代码。
   STARTER_TESTIMONIALS_ITEMS: [
     {
       STARTER_TESTIMONIALS_ITEM_TEXT:
-        'The craftsmanship is excellent, and it offers a high degree of customizability! ',
+        'xxx',
       STARTER_TESTIMONIALS_ITEM_AVATAR:
         '',//头像
       STARTER_TESTIMONIALS_ITEM_NICKNAME: 'Ryan', //名字
@@ -131,7 +131,7 @@ const CONFIG = {
     },
     {
       STARTER_TESTIMONIALS_ITEM_TEXT:
-        'I am beyond pleased with my purchase! The item was exactly as described, with excellent attention to detail. The seller was communicative and shipping was fast. A perfect gift for any occasion!',
+        'xxx',
       STARTER_TESTIMONIALS_ITEM_AVATAR:
         '',
       STARTER_TESTIMONIALS_ITEM_NICKNAME: 'Asenkits',
@@ -140,7 +140,7 @@ const CONFIG = {
     },
     {
       STARTER_TESTIMONIALS_ITEM_TEXT:
-        'truly unique and thoughtful gift! The craftsmanship is impeccable, and the seller's attention to detail is remarkable. Fast shipping and great communication. I will be a returning customer for sure!',
+        'xxx',
       STARTER_TESTIMONIALS_ITEM_AVATAR:
         '',
       STARTER_TESTIMONIALS_ITEM_NICKNAME: 'DWIND',
@@ -149,7 +149,7 @@ const CONFIG = {
     },
     {
       STARTER_TESTIMONIALS_ITEM_TEXT:
-        'What a beautiful and unique item! The attention to detail is incredible, and the quality is outstanding. The seller provided excellent customer service, and the item arrived on time. Truly a standout piece!',
+        'xxx',
       STARTER_TESTIMONIALS_ITEM_AVATAR:
         'https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fd52f6766-3e32-4c3d-8529-46e1f214360f%2Ffavicon.svg?table=collection&id=7d76aad5-a2c4-4d9a-887c-c7913fae4eed&width=400',
       STARTER_TESTIMONIALS_ITEM_NICKNAME: 'disheng ',
@@ -158,7 +158,7 @@ const CONFIG = {
     },
     {
       STARTER_TESTIMONIALS_ITEM_TEXT:
-        'I couldn’t be happier with this purchase! The item is even more beautiful in person, and the quality is exceptional. The seller was very accommodating, and the item arrived safely. A truly wonderful experience!',
+        'xxx',
       STARTER_TESTIMONIALS_ITEM_AVATAR:
         'https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fafb21381-f51b-4fd0-9998-800dbeb64dbe%2Favatar.png?table=block&id=195935d2-0d8d-49fc-bd81-1db42ee50840&spaceId=6c096b44-beb9-48ee-8f92-1efdde47f3a3&width=100&userId=27074aef-7216-41ed-baef-d9b53addd870&cache=v2',
       STARTER_TESTIMONIALS_ITEM_NICKNAME: 'AnJhon',
@@ -166,7 +166,7 @@ const CONFIG = {
       STARTER_TESTIMONIALS_ITEM_URL: ''
     },
     {
-      STARTER_TESTIMONIALS_ITEM_TEXT: 'This item exceeded all my expectations! The quality is top-notch, and the design is both elegant and timeless. The seller was very professional, and the item arrived quickly. A perfect choice for a special gift!',
+      STARTER_TESTIMONIALS_ITEM_TEXT: 'xxx',
       STARTER_TESTIMONIALS_ITEM_AVATAR:
         'https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fe4f391d7-7d65-4c05-a82c-c6e2c40f06e4%2Fa2a7641a26b367608c6ef28ce9b7e983_(2).png?table=block&id=a386eb0e-4c07-4b18-9ece-bba4e79ce21c&spaceId=6c096b44-beb9-48ee-8f92-1efdde47f3a3&width=100&userId=27074aef-7216-41ed-baef-d9b53addd870&cache=v2',
       STARTER_TESTIMONIALS_ITEM_NICKNAME: 'LUCEN',
