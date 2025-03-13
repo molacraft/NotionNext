@@ -300,14 +300,14 @@ const CONFIG = {
       TITLE: '关于我们',
       LINK_GROUP: [
         { TITLE: '官方主页', URL: '/#home' },
-        { TITLE: '操作文档', URL: 'https://docs.tangly1024.com/about' },
+        { TITLE: '操作文档', URL: '' },  // 
         {
-          TITLE: '帮助支持',
-          URL: 'https://docs.tangly1024.com/article/how-to-question'
+          TITLE: '帮助支持', //
+          URL: ''
         },
         {
-          TITLE: '合作申请',
-          URL: 'https://docs.tangly1024.com/article/my-service'
+          TITLE: '合作申请', //
+          URL: ''
         }
       ]
     },
@@ -316,13 +316,14 @@ const CONFIG = {
       LINK_GROUP: [
         {
           TITLE: '部署指南',
-          URL: 'https://docs.tangly1024.com/article/vercel-deploy-notion-next'
+          URL: ''
         },
         {
           TITLE: '升级指南',
-          URL: 'https://docs.tangly1024.com/article/how-to-update-notionnext'
+          URL: ''
         },
         { TITLE: '最新版本', URL: 'https://docs.tangly1024.com/article/latest' }
+        { TITLE: 'xxx', URL: 'https://docs.tangly1024.com/article/latest' }
       ]
     },
     {
@@ -346,13 +347,13 @@ const CONFIG = {
 
   STARTER_FOOTER_BLOG_LATEST_TITLE: '最新文章',
 
-  STARTER_FOOTER_PRIVACY_POLICY_TEXT: '隐私政策',
+  STARTER_FOOTER_PRIVACY_POLICY_TEXT: '隐私政策', // 底部隐私政策
   STARTER_FOOTER_PRIVACY_POLICY_URL: '/privacy-policy',
 
-  STARTER_FOOTER_PRIVACY_LEGAL_NOTICE_TEXT: '法律声明',
+  STARTER_FOOTER_PRIVACY_LEGAL_NOTICE_TEXT: '法律声明', // 底部法律声明
   STARTER_FOOTER_PRIVACY_LEGAL_NOTICE_URL: '/legacy-notice',
 
-  STARTER_FOOTER_PRIVACY_TERMS_OF_SERVICE_TEXT: '服务协议',
+  STARTER_FOOTER_PRIVACY_TERMS_OF_SERVICE_TEXT: '服务协议', //底部服务协议
   STARTER_FOOTER_PRIVACY_TERMS_OF_SERVICE_URL: '/terms-of-use',
 
   // 404页面的提示语
