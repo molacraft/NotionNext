@@ -234,7 +234,7 @@ const CONFIG = {
   // 博客文章区块
   STARTER_BLOG_ENABLE: true, // 首页博文区块开关
   STARTER_BLOG_TITLE: 'Our products',
-  STARTER_BLOG_COUNT: 12, // 首页博文区块默认展示前3篇文章
+  STARTER_BLOG_COUNT: 15, // 首页博文区块默认展示前3篇文章
   STARTER_BLOG_TEXT_1: 'Our products',
   STARTER_BLOG_TEXT_2:
     'Badges, medals, keychains, woven straps, PVC products, silicone wristbands, embroidered covers, trophies, double-sided coins, and decorations.',
