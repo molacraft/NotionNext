@@ -176,7 +176,7 @@ const CONFIG = {
   ],
 
   //   FAQ 常见问题模块
-  STARTER_FAQ_ENABLE: true, // 常见问题模块开关
+  STARTER_FAQ_ENABLE: false, // 常见问题模块开关
   STARTER_FAQ_TITLE: 'FAQ',
   STARTER_FAQ_TEXT_1: 'Frequently Asked Questions',
   STARTER_FAQ_TEXT_2: 'We have compiled a collection of common user inquiries.',
@@ -234,7 +234,7 @@ const CONFIG = {
   // 博客文章区块
   STARTER_BLOG_ENABLE: true, // 首页博文区块开关
   STARTER_BLOG_TITLE: 'Our products',
-  STARTER_BLOG_COUNT: 9, // 首页博文区块默认展示前3篇文章
+  STARTER_BLOG_COUNT: 12, // 首页博文区块默认展示前3篇文章
   STARTER_BLOG_TEXT_1: 'Our products',
   STARTER_BLOG_TEXT_2:
     'Badges, medals, keychains, woven straps, PVC products, silicone wristbands, embroidered covers, trophies, double-sided coins, and decorations.',
