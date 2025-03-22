@@ -68,9 +68,9 @@ const CONFIG = {
   STARTER_ABOUT_BUTTON_URL: 'https://demo.molacraft.com/about', // 此处可链接到关于我们的介绍 
   STARTER_ABOUT_IMAGE_1: '/images/starter/about/about-image-01.jpg',
   STARTER_ABOUT_IMAGE_2: '/images/starter/about/about-image-02.jpg',
-  STARTER_ABOUT_TIPS_1: '500000+',
-  STARTER_ABOUT_TIPS_2: 'xxx',
-  STARTER_ABOUT_TIPS_3: 'xxx',
+  STARTER_ABOUT_TIPS_1: '95812+',
+  STARTER_ABOUT_TIPS_2: 'Finished Orders',
+  STARTER_ABOUT_TIPS_3: '875471+ Total Out-put',
 
   // 首页价格区块
   STARTER_PRICING_ENABLE: false, // 价格区块开关 ture / false
@@ -309,7 +309,7 @@ const CONFIG = {
         },
         {
           TITLE: 'Mail',
-          URL: 'sales16@molacraft.com'
+          URL: 'https://sales16@molacraft.com/'
         }
       ]
     },
@@ -364,7 +364,7 @@ const CONFIG = {
 
   // 页面底部的行动呼吁模块
   STARTER_CTA_ENABLE: false,
-  STARTER_CTA_TITLE: '你还在等待什么呢？',
+  STARTER_CTA_TITLE: 'Start your customization',
   STARTER_CTA_TITLE_2: '现在开始吧',
   STARTER_CTA_DESCRIPTION:
     '访问NotionNext的操作文档，我们提供了详细的教程，帮助你即刻搭建站点',
