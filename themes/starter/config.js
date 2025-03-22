@@ -65,10 +65,10 @@ const CONFIG = {
   STARTER_ABOUT_TEXT:
     'We have been specializing in custom craft & gift for over 7 years. <br /> We have a production team of more than 200 employees, and a total of about 50 people in the art team and sales team. <br /> So our working language is English and all your quotations and inquiries will be replied on the same working day.<br />In addition, our artist team has more than 5 employees, they work with the sales team in the same office to help our sales to convert your idea or sketch into workable production proof.<br />Our team will keep hard &smart working to create more value to help you win more orders. ',  // <br /> 代表换行
   STARTER_ABOUT_BUTTON_TEXT: 'Learn more',
-  STARTER_ABOUT_BUTTON_URL: '', // 此处可链接到关于我们的介绍
+  STARTER_ABOUT_BUTTON_URL: 'https://demo.molacraft.com/about', // 此处可链接到关于我们的介绍 
   STARTER_ABOUT_IMAGE_1: '/images/starter/about/about-image-01.jpg',
   STARTER_ABOUT_IMAGE_2: '/images/starter/about/about-image-02.jpg',
-  STARTER_ABOUT_TIPS_1: 'xxx',
+  STARTER_ABOUT_TIPS_1: '500000+',
   STARTER_ABOUT_TIPS_2: 'xxx',
   STARTER_ABOUT_TIPS_3: 'xxx',
 
