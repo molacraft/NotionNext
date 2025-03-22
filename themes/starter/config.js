@@ -367,7 +367,7 @@ const CONFIG = {
   STARTER_CTA_TITLE: 'Start your customization',
   STARTER_CTA_TITLE_2: '现在开始吧',
   STARTER_CTA_DESCRIPTION:
-    '访问NotionNext的操作文档，我们提供了详细的教程，帮助你即刻搭建站点',
+    'Visit our product library to learn about the latest product information.',
   STARTER_CTA_BUTTON: true, // 是否显示按钮
   STARTER_CTA_BUTTON_URL:
     '',
