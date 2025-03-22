@@ -363,9 +363,9 @@ const CONFIG = {
   STARTER_404_BACK: 'Return to the homepage', // 回到主页
 
   // 页面底部的行动呼吁模块
-  STARTER_CTA_ENABLE: false,
+  STARTER_CTA_ENABLE: true,
   STARTER_CTA_TITLE: 'Start your customization',
-  STARTER_CTA_TITLE_2: '现在开始吧',
+  STARTER_CTA_TITLE_2: 'A variety of gifts and handicrafts',
   STARTER_CTA_DESCRIPTION:
     'Visit our product library to learn about the latest product information.',
   STARTER_CTA_BUTTON: true, // 是否显示按钮
