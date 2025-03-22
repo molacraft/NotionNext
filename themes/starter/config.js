@@ -309,7 +309,7 @@ const CONFIG = {
         },
         {
           TITLE: 'Mail',
-          URL: 'https://sales16@molacraft.com/'
+          URL: ''
         }
       ]
     },
@@ -370,8 +370,8 @@ const CONFIG = {
     'Visit our product library to learn about the latest product information.',
   STARTER_CTA_BUTTON: true, // 是否显示按钮
   STARTER_CTA_BUTTON_URL:
-    '',
-  STARTER_CTA_BUTTON_TEXT: 'XXX',
+    'http://sales16@molacraft.com/',
+  STARTER_CTA_BUTTON_TEXT: 'Contact us→',
 
   STARTER_POST_REDIRECT_ENABLE: true, // 默認開啟重定向
   STARTER_POST_REDIRECT_URL: '', // 重定向域名 
