@@ -12,7 +12,7 @@ export const MenuList = props => {
   const { customNav, customMenu } = props
   const { locale } = useGlobal()
 
-  const [showMenu, setShowMenu] = useState(true) // 控制菜单展开/收起状态
+  const [showMenu, setShowMenu] = useState(false) // 控制菜单展开/收起状态
   const router = useRouter()
 
   let links = [
