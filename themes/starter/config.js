@@ -33,7 +33,7 @@ const CONFIG = {
 
   // 特性区块
   STARTER_FEATURE_ENABLE: true, // 特性区块开关
-  STARTER_FEATURE_TITLE: '', // 特性
+  STARTER_FEATURE_TITLE: 'WHAT CAN WE DO', // 特性
   STARTER_FEATURE_TEXT_1: 'WHAT CAN WE DO', // 特性
   STARTER_FEATURE_TEXT_2:
     '10000+ Crafts of different kinds and designs. At Mola Craft, you can get following custom products at direct factory price with one-stop solution reliable service.', // 特性
