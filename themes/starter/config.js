@@ -299,17 +299,17 @@ const CONFIG = {
   // 页脚三列菜单组
   STARTER_FOOTER_LINK_GROUP: [
     {
-      TITLE: 'xxx',
+      TITLE: 'Follow us',
       LINK_GROUP: [
-        { TITLE: 'xxx', URL: '/#home' },
-        { TITLE: 'xxx', URL: '' },
+        { TITLE: 'Instagram', URL: 'https://www.instagram.com/molacraft2020/' },
+        { TITLE: 'Facebook ', URL: 'https://facebook.com' },
         {
-          TITLE: 'xxx',
-          URL: ''
+          TITLE: 'X',
+          URL: 'https://x.com/'
         },
         {
-          TITLE: 'xxx',
-          URL: 'xxx'
+          TITLE: 'Mail',
+          URL: 'sales16@molacraft.com'
         }
       ]
     },
