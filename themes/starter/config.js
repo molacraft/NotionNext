@@ -370,7 +370,7 @@ const CONFIG = {
     'Visit our product library to learn about the latest product information.',
   STARTER_CTA_BUTTON: true, // 是否显示按钮
   STARTER_CTA_BUTTON_URL:
-    'http://sales16@molacraft.com/',
+    '<a href="mailto:example@example.com">发送邮件</a>',
   STARTER_CTA_BUTTON_TEXT: 'Contact us→',
 
   STARTER_POST_REDIRECT_ENABLE: true, // 默認開啟重定向
