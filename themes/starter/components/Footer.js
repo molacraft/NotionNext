@@ -134,11 +134,11 @@ export const Footer = props => {
                   <p className='text-base text-gray-7'>
                     Designed and Developed by MOLACRAFT
                     <a
-                      href='' //https://github.com/tangly1024/NotionNext
-                      rel='' //nofollow noopner noreferrer
-                      target='_blank'
-                      className='px-1 text-gray-1 hover:underline'>
-                     // MOLACRAFT // {siteConfig('VERSION')}
+                      //href='' //https://github.com/tangly1024/NotionNext
+                      //rel='' //nofollow noopner noreferrer
+                      //target='_blank'
+                      //className='px-1 text-gray-1 hover:underline'>
+                      //MOLACRAFT // {siteConfig('VERSION')}
                     </a>
                   </p>
                 </div>
