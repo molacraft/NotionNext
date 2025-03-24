@@ -1,7 +1,7 @@
 import BLOG from '@/blog.config'
 import { siteConfig } from '@/lib/config'
 import { useGlobal } from '@/lib/global'
-//import { useRouter } from 'next/router'
+import { useRouter } from 'next/router'
 import { useEffect, useState } from 'react'
 import { MenuItem } from './MenuItem'
 
@@ -12,8 +12,8 @@ export const MenuList = props => {
   const { customNav, customMenu } = props
   const { locale } = useGlobal()
 
-//  const [showMenu, setShowMenu] = useState(false) // 控制菜单展开/收起状态
-//  const router = useRouter()
+  const [showMenu, setShowMenu] = useState(false) // 控制菜单展开/收起状态
+  const router = useRouter()
 
   let links = [
     {
