@@ -58,6 +58,10 @@ export const MenuList = props => {
     setShowMenu(false);
   }, [router]);
 
+  useEffect(() => {
+    console.log('showMenu updated:', showMenu);
+  }, [showMenu]);
+
   return (
     <div>
       <button
