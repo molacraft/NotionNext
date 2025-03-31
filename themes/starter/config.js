@@ -314,32 +314,32 @@ const CONFIG = {
       ]
     },
     {
-      TITLE: 'xxx',
+      TITLE: 'NEW DYNAMICS',
       LINK_GROUP: [
         {
-          TITLE: 'xxx',
+          TITLE: 'News',
           URL: ''
         },
         {
-          TITLE: 'xxx',
+          TITLE: 'CUSTOMER SERVICE',
           URL: ''
         },
-        { TITLE: 'xxx', URL: '' }
+        { TITLE: '', URL: '' }
       ]
     },
     {
-      TITLE: 'xxx',
+      TITLE: 'Learn More',
       LINK_GROUP: [
         {
-          TITLE: 'xxx',
+          TITLE: 'Our Factory',
           URL: ''
         },
         {
-          TITLE: 'xxx',
+          TITLE: 'Our Craftsmanship',
           URL: ''
         },
         {
-          TITLE: 'xxx',
+          TITLE: 'Success Stories',
           URL: ''
         }
       ]
