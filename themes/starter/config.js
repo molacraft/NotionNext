@@ -299,47 +299,47 @@ const CONFIG = {
   // 页脚三列菜单组
   STARTER_FOOTER_LINK_GROUP: [
     {
-      TITLE: 'Follow us',
+      TITLE: 'FOLLOW US',
       LINK_GROUP: [
         { TITLE: 'Instagram', URL: 'https://www.instagram.com/molacraft2020/' },
         { TITLE: 'Facebook ', URL: 'https://facebook.com' },
         {
-          TITLE: 'X',
-          URL: 'https://x.com/'
-        },
-        {
           TITLE: 'Mail',
           URL: 'mailto:inquiry@molacraft.com'
+        },
+        {
+          TITLE: '',
+          URL: ''
         }
       ]
     },
     {
-      TITLE: 'NEW DYNAMICS',
+      TITLE: 'LATEST NEWS',
       LINK_GROUP: [
         {
-          TITLE: 'News',
+          TITLE: 'NEW DYNAMICS',
           URL: ''
         },
         {
           TITLE: 'CUSTOMER SERVICE',
           URL: ''
         },
-        { TITLE: '', URL: '' }
+        { TITLE: 'SUPPLY PARTNERSHIP', URL: '' }
       ]
     },
     {
-      TITLE: 'Learn More',
+      TITLE: 'LEARN MORE',
       LINK_GROUP: [
         {
-          TITLE: 'Our Factory',
+          TITLE: 'OUR FACTORY',
           URL: ''
         },
         {
-          TITLE: 'Our Craftsmanship',
+          TITLE: 'OUR CRAFTSMANSHIP',
           URL: ''
         },
         {
-          TITLE: 'Success Stories',
+          TITLE: 'SUCCESS STORIES',
           URL: ''
         }
       ]
