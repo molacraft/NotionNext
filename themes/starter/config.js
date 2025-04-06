@@ -294,7 +294,7 @@ const CONFIG = {
     }
   ],
 
-  STARTER_FOOTER_SLOGAN: 'Create your own craft',  //底部左下角标语
+  STARTER_FOOTER_SLOGAN: 'molacraft.com',  //底部左下角标语
 
   // 页脚三列菜单组
   STARTER_FOOTER_LINK_GROUP: [
@@ -365,9 +365,9 @@ const CONFIG = {
   // 页面底部的行动呼吁模块
   STARTER_CTA_ENABLE: true,
   STARTER_CTA_TITLE: 'Start Your Customization!',
-  STARTER_CTA_TITLE_2: 'We will get back to you as soon as we receive your message.',
+  STARTER_CTA_TITLE_2: '',
   STARTER_CTA_DESCRIPTION:
-    '',
+    'We will get back to you as soon as we receive your message.',
   STARTER_CTA_BUTTON: true, // 是否显示按钮
   STARTER_CTA_BUTTON_URL:
     'mailto:inquiry@molacraft.com',
