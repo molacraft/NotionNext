@@ -66,8 +66,8 @@ const CONFIG = {
     'Zhongshan Mola Craft Co,. Ltd. has been focusing on custom crafts and gifts since 2013 in China. We have a production team of more than 50 employees, and a total of about 30 people in the art team and sales team. Our working language is English and all your quotations and inquiries will be replied on the same working day.  <br /> In addition, our artist team has more than 5 employees, they work with the sales team in the same office to help our sales to convert your idea or sketch into workable production proof. Our team will keep hard & smart working to create more value to help you win more orders. ',  // <br /> 代表换行
   STARTER_ABOUT_BUTTON_TEXT: '', //Learn more
   STARTER_ABOUT_BUTTON_URL: '', // 此处可链接到关于我们的介绍 
-  STARTER_ABOUT_IMAGE_1: '/images/starter/about/about-image-01.jpg',
-  STARTER_ABOUT_IMAGE_2: '/images/starter/about/about-image-02.jpg',
+  STARTER_ABOUT_IMAGE_1: '/images/starter/about/about1.jpg',
+  STARTER_ABOUT_IMAGE_2: '/images/starter/about/about2.jpg',
   STARTER_ABOUT_TIPS_1: '8512+',
   STARTER_ABOUT_TIPS_2: 'Finished Orders',
   STARTER_ABOUT_TIPS_3: '', //875471+ Total Out-put
@@ -294,7 +294,7 @@ const CONFIG = {
     }
   ],
 
-  STARTER_FOOTER_SLOGAN: 'molacraft.com',  //底部左下角标语
+  STARTER_FOOTER_SLOGAN: '',  //底部左下角标语
 
   // 页脚三列菜单组
   STARTER_FOOTER_LINK_GROUP: [
@@ -321,7 +321,7 @@ const CONFIG = {
           URL: 'mailto:inquiry@molacraft.com'
         },
         {
-          TITLE: 'WhapApp',
+          TITLE: 'WhapSApp',
           URL: ''
         },
         { TITLE: '', URL: '' }
