@@ -11,7 +11,7 @@ const CONFIG = {
   // 英雄区块导航
   STARTER_HERO_ENABLE: true, // 开启英雄区
   STARTER_HERO_TITLE_1: 'MOLA CRAFT', // 英雄区文字
-  STARTER_HERO_TITLE_2: 'Crafts of different kinds and designs.', // 英雄区文字
+  STARTER_HERO_TITLE_2: 'Beyond Customization, Win-Win Together.', // 英雄区文字
   // 英雄区两个按钮，如果TEXT留空则隐藏按钮
   STARTER_HERO_BUTTON_1_TEXT: '', // 英雄区按钮
   STARTER_HERO_BUTTON_1_URL:
@@ -33,44 +33,44 @@ const CONFIG = {
 
   // 特性区块
   STARTER_FEATURE_ENABLE: true, // 特性区块开关
-  STARTER_FEATURE_TITLE: 'WHAT CAN WE DO', // 特性
+  STARTER_FEATURE_TITLE: '', // 特性 WHAT CAN WE DO
   STARTER_FEATURE_TEXT_1: 'WHAT CAN WE DO', // 特性
   STARTER_FEATURE_TEXT_2:
     '10000+ Crafts of different kinds and designs. At Mola Craft, you can get following custom products at direct factory price with one-stop solution reliable service.', // 特性
 
   STARTER_FEATURE_1_TITLE_1: 'Custom', // 特性1
   STARTER_FEATURE_1_TEXT_1: 'A wide variety of products, customized gifts with different craftsmanship.', // 特性1
-  STARTER_FEATURE_1_BUTTON_TEXT: 'Learn more', // 特性1
-  STARTER_FEATURE_1_BUTTON_URL: '', // 特性1
+  STARTER_FEATURE_1_BUTTON_TEXT: '', // 特性1
+  STARTER_FEATURE_1_BUTTON_URL: '', // 特性1 Learn more
 
   STARTER_FEATURE_2_TITLE_1: 'Factory Price', // 特性2
   STARTER_FEATURE_2_TEXT_1: 'In the past 7 years, we have invested in 3 different factories to strengthen our production capacity and provide customers with direct factory prices.', // 特性2
-  STARTER_FEATURE_2_BUTTON_TEXT: 'Learn more', // 特性2
+  STARTER_FEATURE_2_BUTTON_TEXT: '', // 特性2 Learn more
   STARTER_FEATURE_2_BUTTON_URL:
     '', // 特性2
 
   STARTER_FEATURE_3_TITLE_1: 'Quality Guaranteed ', // 特性3
   STARTER_FEATURE_3_TEXT_1: 'We have online QC to check the quality of all products, and it is not allowed to deliver defective products to customers.', // 特性3
-  STARTER_FEATURE_3_BUTTON_TEXT: 'Learn more', // 特性3
+  STARTER_FEATURE_3_BUTTON_TEXT: '', // 特性3 Learn more
   STARTER_FEATURE_3_BUTTON_URL: '', // 特性3
 
   STARTER_FEATURE_4_TITLE_1: 'One-Stop Logistic Solution', // 特性4
   STARTER_FEATURE_4_TEXT_1: 'We also have a professional sales team to follow your quotations and orders, and provide a one-stop logistics solution when the order is completed. ', // 特性4
-  STARTER_FEATURE_4_BUTTON_TEXT: 'Learn more', // 特性4
-  STARTER_FEATURE_4_BUTTON_URL: '', // 特性4
+  STARTER_FEATURE_4_BUTTON_TEXT: '', // 特性4Learn more
+  STARTER_FEATURE_4_BUTTON_URL: '', // 特性4 
 
   // 首页ABOUT区块
   STARTER_ABOUT_ENABLE: true, // ABOUT区块开关
   STARTER_ABOUT_TITLE: 'ABOUT MOLA CRAFT',
   STARTER_ABOUT_TEXT:
-    'We have been specializing in custom craft & gift for over 7 years. <br /> We have a production team of more than 200 employees, and a total of about 50 people in the art team and sales team. <br /> So our working language is English and all your quotations and inquiries will be replied on the same working day.<br />In addition, our artist team has more than 5 employees, they work with the sales team in the same office to help our sales to convert your idea or sketch into workable production proof.<br />Our team will keep hard &smart working to create more value to help you win more orders. ',  // <br /> 代表换行
+    'Zhongshan Mola Craft Co,. Ltd. has been focusing on custom crafts and gifts since 2013 in China. We have a production team of more than 50 employees, and a total of about 30 people in the art team and sales team. Our working language is English and all your quotations and inquiries will be replied on the same working day.  <br /> In addition, our artist team has more than 5 employees, they work with the sales team in the same office to help our sales to convert your idea or sketch into workable production proof. Our team will keep hard & smart working to create more value to help you win more orders. ',  // <br /> 代表换行
   STARTER_ABOUT_BUTTON_TEXT: 'Learn more',
   STARTER_ABOUT_BUTTON_URL: 'https://demo.molacraft.com/about', // 此处可链接到关于我们的介绍 
   STARTER_ABOUT_IMAGE_1: '/images/starter/about/about-image-01.jpg',
   STARTER_ABOUT_IMAGE_2: '/images/starter/about/about-image-02.jpg',
-  STARTER_ABOUT_TIPS_1: '95812+',
+  STARTER_ABOUT_TIPS_1: '8512+',
   STARTER_ABOUT_TIPS_2: 'Finished Orders',
-  STARTER_ABOUT_TIPS_3: '875471+ Total Out-put',
+  STARTER_ABOUT_TIPS_3: '', //875471+ Total Out-put
 
   // 首页价格区块
   STARTER_PRICING_ENABLE: false, // 价格区块开关 ture / false
@@ -233,11 +233,11 @@ const CONFIG = {
 
   // 博客文章区块
   STARTER_BLOG_ENABLE: true, // 首页博文区块开关
-  STARTER_BLOG_TITLE: 'Our products',
+  STARTER_BLOG_TITLE: '',
   STARTER_BLOG_COUNT: 15, // 首页博文区块默认展示前3篇文章
-  STARTER_BLOG_TEXT_1: 'Our products',
+  STARTER_BLOG_TEXT_1: 'OUR PRODUCTS',
   STARTER_BLOG_TEXT_2:
-    'Badges, medals, keychains, woven straps, PVC products, silicone wristbands, embroidered covers, trophies, double-sided coins, and decorations.',
+    'Our main products including lapel pin, badge, medal, keychain, lanyard, PVC keychain, silicone wristband and promotion gifts.',
 
   // 联系模块
   STARTER_CONTACT_ENABLE: true, // 联系模块开关
@@ -304,8 +304,8 @@ const CONFIG = {
         { TITLE: 'Instagram', URL: 'https://www.instagram.com/molacraft2020/' },
         { TITLE: 'Facebook ', URL: 'https://facebook.com' },
         {
-          TITLE: 'Mail',
-          URL: 'mailto:inquiry@molacraft.com'
+          TITLE: '',
+          URL: ''
         },
         {
           TITLE: '',
@@ -314,44 +314,44 @@ const CONFIG = {
       ]
     },
     {
-      TITLE: 'LATEST NEWS',
+      TITLE: 'CONTRACT US',
       LINK_GROUP: [
         {
-          TITLE: 'NEW DYNAMICS',
-          URL: ''
+          TITLE: 'Email',
+          URL: 'mailto:inquiry@molacraft.com'
         },
         {
-          TITLE: 'CUSTOMER SERVICE',
+          TITLE: 'WhapApp',
           URL: ''
         },
-        { TITLE: 'SUPPLY PARTNERSHIP', URL: '' }
+        { TITLE: '', URL: '' }
       ]
     },
     {
-      TITLE: 'LEARN MORE',
+      TITLE: '', //LEARN MORE
       LINK_GROUP: [
         {
-          TITLE: 'OUR FACTORY',
+          TITLE: '',
           URL: ''
         },
         {
-          TITLE: 'OUR CRAFTSMANSHIP',
+          TITLE: '',
           URL: ''
         },
         {
-          TITLE: 'SUCCESS STORIES',
+          TITLE: '',
           URL: ''
         }
       ]
     }
   ],
 
-  STARTER_FOOTER_BLOG_LATEST_TITLE: '111',
+  STARTER_FOOTER_BLOG_LATEST_TITLE: '',
 
   STARTER_FOOTER_PRIVACY_POLICY_TEXT: 'Copyright © 2023', //隐私政策
  // STARTER_FOOTER_PRIVACY_POLICY_URL: '',
 
-  STARTER_FOOTER_PRIVACY_LEGAL_NOTICE_TEXT: 'Zhongshan MolaCraft CO,.Ltd', //法律声明
+  STARTER_FOOTER_PRIVACY_LEGAL_NOTICE_TEXT: 'Zhongshan Mola Craft CO,.Ltd', //法律声明
  // STARTER_FOOTER_PRIVACY_LEGAL_NOTICE_URL: '',
 
   STARTER_FOOTER_PRIVACY_TERMS_OF_SERVICE_TEXT: '',//服务协议
@@ -364,10 +364,10 @@ const CONFIG = {
 
   // 页面底部的行动呼吁模块
   STARTER_CTA_ENABLE: true,
-  STARTER_CTA_TITLE: 'Start your customization',
-  STARTER_CTA_TITLE_2: 'A variety of gifts and handicrafts',
+  STARTER_CTA_TITLE: 'Start Your Customization!',
+  STARTER_CTA_TITLE_2: 'We will get back to you as soon as we receive your message.',
   STARTER_CTA_DESCRIPTION:
-    'Visit our product library to learn about the latest product information.',
+    '',
   STARTER_CTA_BUTTON: true, // 是否显示按钮
   STARTER_CTA_BUTTON_URL:
     'mailto:inquiry@molacraft.com',
