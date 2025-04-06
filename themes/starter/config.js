@@ -64,7 +64,7 @@ const CONFIG = {
   STARTER_ABOUT_TITLE: 'ABOUT MOLA CRAFT',
   STARTER_ABOUT_TEXT:
     'Zhongshan Mola Craft Co,. Ltd. has been focusing on custom crafts and gifts since 2013 in China. We have a production team of more than 50 employees, and a total of about 30 people in the art team and sales team. Our working language is English and all your quotations and inquiries will be replied on the same working day.  <br /> In addition, our artist team has more than 5 employees, they work with the sales team in the same office to help our sales to convert your idea or sketch into workable production proof. Our team will keep hard & smart working to create more value to help you win more orders. ',  // <br /> 代表换行
-  STARTER_ABOUT_BUTTON_TEXT: '', //Learn more
+  STARTER_ABOUT_BUTTON_TEXT: 'Learn more', //
   STARTER_ABOUT_BUTTON_URL: '', // 此处可链接到关于我们的介绍 
   STARTER_ABOUT_IMAGE_1: '/images/starter/about/about1.jpg',
   STARTER_ABOUT_IMAGE_2: '/images/starter/about/about2.jpg',
@@ -240,7 +240,7 @@ const CONFIG = {
     'Our main products including lapel pin, badge, medal, keychain, lanyard, PVC keychain, silicone wristband and promotion gifts.',
 
   // 联系模块
-  STARTER_CONTACT_ENABLE: true, // 联系模块开关
+  STARTER_CONTACT_ENABLE: false, // 联系模块开关
   STARTER_CONTACT_TITLE: 'Have a good day!',
   STARTER_CONTACT_TEXT: 'Contact support',
   STARTER_CONTACT_LOCATION_TITLE: 'CHINA，ZHONGSHAN',  // 我们的位置
@@ -294,7 +294,7 @@ const CONFIG = {
     }
   ],
 
-  STARTER_FOOTER_SLOGAN: '',  //底部左下角标语
+  STARTER_FOOTER_SLOGAN: 'www.molacraft.com',  //底部左下角标语
 
   // 页脚三列菜单组
   STARTER_FOOTER_LINK_GROUP: [
@@ -321,7 +321,7 @@ const CONFIG = {
           URL: 'mailto:inquiry@molacraft.com'
         },
         {
-          TITLE: 'WhapSApp',
+          TITLE: 'WhatsAPP',
           URL: ''
         },
         { TITLE: '', URL: '' }
@@ -351,7 +351,7 @@ const CONFIG = {
   STARTER_FOOTER_PRIVACY_POLICY_TEXT: 'Copyright © 2023', //隐私政策
  // STARTER_FOOTER_PRIVACY_POLICY_URL: '',
 
-  STARTER_FOOTER_PRIVACY_LEGAL_NOTICE_TEXT: 'Zhongshan Mola Craft CO,.Ltd', //法律声明
+  STARTER_FOOTER_PRIVACY_LEGAL_NOTICE_TEXT: 'Zhongshan Mola Craft CO,.LTD', //法律声明
  // STARTER_FOOTER_PRIVACY_LEGAL_NOTICE_URL: '',
 
   STARTER_FOOTER_PRIVACY_TERMS_OF_SERVICE_TEXT: '',//服务协议
