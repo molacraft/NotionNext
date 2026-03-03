@@ -65,7 +65,7 @@ const CONFIG = {
   STARTER_ABOUT_TEXT:
     'Zhongshan Mola Craft Co,. Ltd. has been focusing on custom crafts and gifts since 2013 in China. We have a production team of more than 50 employees, and a total of about 30 people in the art team and sales team. Our working language is English and all your quotations and inquiries will be replied on the same working day.  <br /> In addition, our artist team has more than 5 employees, they work with the sales team in the same office to help our sales to convert your idea or sketch into workable production proof. Our team will keep hard & smart working to create more value to help you win more orders.',
   STARTER_ABOUT_BUTTON_TEXT: 'Learn more',
-  STARTER_ABOUT_BUTTON_URL: '',
+  STARTER_ABOUT_BUTTON_URL: 'https://www.molacraft.com/about',
   STARTER_ABOUT_IMAGE_1: '/images/starter/MOLA/about1.jpg',
   STARTER_ABOUT_IMAGE_2: '/images/starter/MOLA/about2.jpg',
   STARTER_ABOUT_TIPS_1: '8512+',
